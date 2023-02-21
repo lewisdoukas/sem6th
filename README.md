@@ -1,2 +1,2 @@
 # sem6th
-Scripts used for 6th semester
+Scripts used at 6th semester
